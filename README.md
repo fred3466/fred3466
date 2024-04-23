@@ -1,5 +1,8 @@
-Salut le monde 👋
-
+Salut le monde !
+Hallo welt !
+¡ Hola el mundo !
+Ciao mondo !
+Hello world !
 <!--
 **fred3466/fred3466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
